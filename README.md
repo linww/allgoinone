@@ -1,0 +1,2 @@
+# allgoinone
+personal go code
